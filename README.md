@@ -36,7 +36,7 @@ Determinants of **employment formalization levels** in Côte d’Ivoire.
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 - Software: Stata,  
 - Methods:
@@ -45,13 +45,13 @@ Determinants of **employment formalization levels** in Côte d’Ivoire.
   - Spatial data visualization
   - Simplified presentation of predicted outcomes
 
-## 🎯 Main Message
+## Main Message
 
 Informal workers in Côte d’Ivoire are more exposed to multidimensional poverty, but **social protection mechanisms such as health insurance coverage can significantly mitigate this vulnerability**.
 
 ---
 
-## 👤 Bruno Sawadogo
+## Bruno Sawadogo
 
 Doctoral researcher in Economics  
 Focus: Informal economy, poverty dynamics, applied econometrics
